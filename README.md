@@ -6,45 +6,46 @@ This project serves as a quick prototyping tool, enabling the conversion of imag
 🚀 How to Run
 
 🛠️ Prerequisites
-Python installed on your system.
-Basic knowledge of Python programming.
-Visual Studio Code or any preferred IDE installed.
+
+1. Python installed on your system.
+2. Basic knowledge of Python programming.
+3. Visual Studio Code or any preferred IDE installed.
 
 🛠️ Setup & Installation
 
-Clone the Repository
-git clone <repository-url>
-cd <repository-name>
+1. Clone the Repository
+2. git clone : repository-url
+3. cd : repository-name
 
 Install Necessary Libraries
 
-pip install streamlit transformers requests python-dotenv Pillow
+1. pip install streamlit transformers requests python-dotenv Pillow
 
 Setup Environment Variables
 
-Create a .env file in the project directory.
-Add your API keys to the .env file.
-HUGGINGFACEHUB_API_TOKEN=your-huggingface-api-token
-OPENAI_API_KEY=your-openai-api-key
+1. Create a .env file in the project directory.
+2. Add your API keys to the .env file.
+3. HUGGINGFACEHUB_API_TOKEN=your-huggingface-api-token
+4. OPENAI_API_KEY=your-openai-api-key
 
 🚀 Running the App
 
-Open a terminal in the project directory.
-Run the Streamlit app with the following command:
-streamlit run <filename>.py
-Open the displayed link in a web browser to interact with the app.
+1. Open a terminal in the project directory.
+2. Run the Streamlit app with the following command:
+3. streamlit run <filename>.py
+4. Open the displayed link in a web browser to interact with the app.
 
 🌟 Features
 
-Image to Text: Converts uploaded images to text using the Hugging Face Transformers library.
-Story Generation: Generates short stories based on the converted text using the OpenAI GPT-3.5 Turbo model.
-Text to Speech: Converts the generated stories to speech using the Hugging Face API.
+1. Image to Text: Converts uploaded images to text using the Hugging Face Transformers library.
+2. Story Generation: Generates short stories based on the converted text using the OpenAI GPT-3.5 Turbo model.
+3. Text to Speech: Converts the generated stories to speech using the Hugging Face API.
 
 📘 How to Use
 
-Upload an Image: Use the file uploader to choose an image.
-View the Uploaded Image: The uploaded image will be displayed on the app.
-Generate and Listen to the Story: The app will automatically convert the image to text, generate a story, and convert the story to speech. You can listen to the generated audio story and view the scenario and story text in the expanders.
+1. Upload an Image: Use the file uploader to choose an image.
+2. View the Uploaded Image: The uploaded image will be displayed on the app.
+3. Generate and Listen to the Story: The app will automatically convert the image to text, generate a story, and convert the story to speech. You can listen to the generated audio story and view the scenario and story text in the expanders.
 
 🙏 Acknowledgements
 
