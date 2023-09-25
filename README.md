@@ -6,7 +6,7 @@ Quick Prototyping Tool for AI Product Managers. Enabling the conversion of image
 
 🛠️ Prerequisites
 
-1. Python installed on your system.
+1. Python installed on your system. Note: Make sure you install python 3.8 and not 3.11, else you would face challenges installing other libraries.
 2. Basic knowledge of Python programming.
 3. Visual Studio Code or any preferred IDE installed.
 
