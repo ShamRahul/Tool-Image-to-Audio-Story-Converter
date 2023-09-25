@@ -1,7 +1,6 @@
 # Tool-Image-to-Audio-Story-Converter
 
-Quick Prototyping Tool for AI Product Managers
-This project serves as a quick prototyping tool, enabling the conversion of images to audio stories through various machine learning models. It is crafted to be user-friendly, specifically catering to product managers with a foundational understanding of Python, facilitating swift and efficient prototyping with models.
+Quick Prototyping Tool for AI Product Managers. Enabling the conversion of images to audio stories through various machine learning models. It is crafted to be user-friendly, specifically catering to product managers with a foundational understanding of Python, facilitating swift and efficient prototyping with models.
 
 🚀 How to Run
 
